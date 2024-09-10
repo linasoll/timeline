@@ -6,7 +6,7 @@ body {
 .widget {
     width: 800px;
     height: 500px;
-    background-image: url("../src/images/background.jpg");
+    background-image: url("../images/background.jpg");
     background-size: cover;
     border-radius: 20px;
     margin: 0 auto;
@@ -51,7 +51,7 @@ body {
     border-radius: 5px;
     width: 30px;
     height: 30px;
-    background-image: url("../src/images/ok.png");
+    background-image: url("../images/ok.png");
     background-position: center center;
     background-size: 50%;
     background-repeat: no-repeat;
@@ -131,35 +131,35 @@ body {
 }
 
 .button-send {
-    background-image: url("../src/images/send.png");
+    background-image: url("../images/send.png");
     background-position: center center;
     background-size: 60%;
     background-repeat: no-repeat;
 }
 
 .button-video {
-    background-image: url("../src/images/video.png");
+    background-image: url("../images/video.png");
     background-position: center center;
     background-size: 60%;
     background-repeat: no-repeat;
 }
 
 .button-audio {
-    background-image: url("../src/images/audio.png");
+    background-image: url("../images/audio.png");
     background-position: center center;
     background-size: 50%;
     background-repeat: no-repeat;
 }
 
 .button-ok {
-    background-image: url("../src/images/ok.png");
+    background-image: url("../images/ok.png");
     background-position: center center;
     background-size: 50%;
     background-repeat: no-repeat;
 }
 
 .button-stop {
-    background-image: url("../src/images/close.png");
+    background-image: url("../images/close.png");
     background-position: center center;
     background-size: 40%;
     background-repeat: no-repeat;
